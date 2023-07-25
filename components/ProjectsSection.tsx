@@ -26,7 +26,7 @@ const ProjectsSection = () => {
             description:"About me",
             image:"/pofo.png",
             github: "https://github.com/JohnPhann/my-portfolio",
-            link:"avc",
+            link:"https://nghia-pc.netlify.app/",
         }
     ]
 
